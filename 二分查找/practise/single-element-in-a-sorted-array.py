@@ -13,6 +13,7 @@ class Solution2:
     def singleNonDuplicate(self, nums: List[int]) -> int:
         left,right = 0,len(nums)-1
         while left < right:
+            # 如果left == right了，说明该退出了。因为每次都会跳过偶数个数，剩余区间包含那个只有一个的元素，当左右所以相等时，就是那个目标元素了。
             mid = (left+right) //2
             flag = (right - mid) % 2 == 0
             if nums[mid] == nums[mid+1]:
