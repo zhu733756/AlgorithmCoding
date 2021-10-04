@@ -6,6 +6,7 @@
 空间复杂度 o(1)
 原地排序算法，不稳定排序，基于选择排序的思想
 """
+from copy import deepcopy
 
 class solution():
 
