@@ -5,10 +5,10 @@
 @Time    :     Tu Oct 2021
 @Author  :     zhu733756
 @Contact :     1079333812@qq.com
-Last Modified: Tue Oct 05 2021
+Last Modified: Thu Oct 07 2021
 Modified By:   zhu733756
-@Desc    :     None
-@link    :     https://leetcode-cn.com/problems/pacific-atlantic-water-flow/submissions/
+@Desc    :     dfs
+@link    :     https://leetcode-cn.com/problems/pacific-atlantic-water-flow/
 '''
 
 from typing import List
