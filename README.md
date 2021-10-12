@@ -6,3 +6,4 @@ Algorithm Coding for Python3
 - 2021-09-24 [Two pointer algorithm](https://github.com/zhu733756/AlgorithmCoding/tree/master/%E7%8E%A9%E8%BD%AC%E5%8F%8C%E6%8C%87%E9%92%88) [done]
 - 2021-10-02 [Binary search algorithm](https://github.com/zhu733756/AlgorithmCoding/tree/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE) [done]
 - 2021-10-04 [Sort algorithm](https://github.com/zhu733756/AlgorithmCoding/tree/master/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95) [done]
+- 2021-10-12 [Search algorithm](https://github.com/zhu733756/AlgorithmCoding/tree/master/%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%955) [done]
