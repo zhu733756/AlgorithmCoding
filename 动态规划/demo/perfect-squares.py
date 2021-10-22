@@ -7,7 +7,7 @@
 @Contact :     1079333812@qq.com
 Last Modified: Wed Oct 20 2021
 Modified By:   zhu733756
-@Desc    :     给定一个数，返回等于该值得平方数的个数
+@Desc    :     给定一个数，返回等于该值得平方数的个数, 分割类型
 @link    :     https://leetcode-cn.com/problems/perfect-squares/submissions/
 '''
 
