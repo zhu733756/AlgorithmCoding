@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 '''
-@File    :     arithmetic-slices copy.py
+@File    :     arithmetic-slices.py
 @Time    :     Mon Oct 18 2021
 @Author  :     zhu733756
 @Contact :     1079333812@qq.com
